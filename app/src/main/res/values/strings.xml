@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyBMIApplication</string>
+    <string name="BMI">My BMI Calculator</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="heightCm">Cm</string>
+    <string name="weightKg">Kg</string>
+    <string name="gender">What you are?</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="ageDetails">Enter your age</string>
+    <string name="ageHint">Age(years)</string>
+    <string name="calculate">Calculate your BMI</string>
+    <string name="reset">Reset</string>
+    <string name="copy">…App made by Kartik Patil…</string>
+    <string name="inputAge">Enter your age</string>
+    <string name="editAge">Age(Years)</string>
+
+</resources>
